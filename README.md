@@ -8,6 +8,7 @@ Since January 2026 I have worked full time on **FROID**, a specification system 
 that a program can be regenerated from it by independent builders, human or model, and checked
 against an oracle written before any of them start. The specification is written in itself.
 Twelve years of infrastructure operations sit underneath that work.
+
 FROID repository at https://github.com/MiddenLabs/FROID_core
 
 ## What I do
